@@ -69,7 +69,7 @@ export function Home() : JSX.Element {
               
             }}
           >
-            Coming Soom
+            Coming Soon
           </Typography>
         </>
       </Skeubox>
