@@ -7,6 +7,7 @@ import {
 import { Sidebar } from "./components/sidebar/sidebar";
 import { Home } from "./pages/home/home";
 
+
 export function Routes_(): JSX.Element {
   return (
     <Router>
